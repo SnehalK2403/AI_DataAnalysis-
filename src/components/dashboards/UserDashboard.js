@@ -5,6 +5,7 @@ import Topbar from '../common/Topbar';
 import { Outlet, useNavigate } from 'react-router-dom';
 import {
   Chart as ChartJS,
+  
   BarElement,
   CategoryScale,
   LinearScale,
